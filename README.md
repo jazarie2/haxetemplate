@@ -1,0 +1,4 @@
+haxetemplate
+============
+
+haxestudio template
